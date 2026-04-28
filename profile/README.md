@@ -48,3 +48,9 @@ S1 系列机械臂官方 SDK，提供底层接口与开发支持。
 ## 📬 联系我们
 请访问我们的[公司官网](https://theseus.cn)!  
 欢迎交流与合作，共同推进机器人学习技术落地。
+
+
+## S1系列机械臂
+<p align="center">
+  <img width="5000" height="2809" alt="image" src="https://github.com/user-attachments/assets/6b53acb1-4dbb-4a13-b533-c86dd8c835dc" />
+</p>
