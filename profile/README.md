@@ -21,7 +21,11 @@ S1 系列机械臂适配 Evo-RL 仓库，支持 LeRobot 框架，可用于：
 
 * 数据采集
 * 模型训练
-* 策略推理
+* 策略推理  
+📢2026-05-10 已开源摇操作/复合式夹爪采集的两个pick&place高质量数据集  
+📢2026-05-10 已开源ACT、Smolvla、PI0、PI0.5四个模型在pick&place的8个checkpoint  
+欢迎访问我们的[huggingface主页](https://huggingface.co/YHRG)
+
 
 ---
 
